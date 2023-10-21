@@ -28,4 +28,4 @@ dict_table['robot'] = list_robot
 
 
 df = pd.DataFrame(dict_table)
-print(df)
+df
