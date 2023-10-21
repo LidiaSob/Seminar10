@@ -1,2 +1,0 @@
-Изменила заголовки. Метод pd.get_dummies(data) генерирует "whoAmI_human",	"whoAmI_robot", я свои назвала просто "human" и "robot".
-
